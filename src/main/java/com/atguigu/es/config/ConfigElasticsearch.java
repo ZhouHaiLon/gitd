@@ -33,5 +33,7 @@ public class ConfigElasticsearch {
         System.out.println("hello git");
         System.out.println("dev git");
         System.out.println("sds git");
+         System.out.println("dev git");
+        System.out.println("手动网页修改");
     }
 }
